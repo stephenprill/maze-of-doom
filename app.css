@@ -1,0 +1,47 @@
+html, body{
+  background-color: black;
+}
+
+div {
+  background-color: white;
+}
+
+.title{
+  width: 20%;
+}
+.top{
+  width: 3%;
+  height: 900px;
+  margin: 0 auto;
+}
+.section2{
+  width: 25%;
+  height: 20px;
+  margin-left: 50%;
+}
+.section3{
+  width: 1%;
+  height: 240px;
+  margin-left: 70%;
+}
+.section4{
+  width: 50%;
+  height: 15px;
+  margin-left: 25%;
+
+}
+.section5{
+  width: 0.75%;
+  height: 500px;
+  margin-left: 25%
+}
+.section6{
+  width: 5%;
+  height: 60px;
+  border-radius: 50%;
+  margin-left: 22.5%;
+}
+.scare{
+  background-image: url(http://fc00.deviantart.net/fs70/f/2011/011/2/f/wooo_scary_face_by_distantj-d36ybf0.png);
+  background-size: 100%;
+}
